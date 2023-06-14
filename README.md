@@ -1,1 +1,3 @@
-# rl_todo_list
+# App Todo 
+
+O aplicativo de tarefas desenvolvido em react
